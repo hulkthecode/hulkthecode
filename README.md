@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...python and progressing towards Machine Learing 
 - 💞️ I’m looking to collaborate on ...small projects
 - 📫 How to reach me ...@anoophalki@gmail.com
+- Learning is a continous process
 
 <!---
 hulkthecode/hulkthecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
